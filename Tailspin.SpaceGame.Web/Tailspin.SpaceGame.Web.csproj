@@ -12,4 +12,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\templates\build.yml" />
+  </ItemGroup>
 </Project>
